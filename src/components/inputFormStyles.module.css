@@ -1,0 +1,50 @@
+
+button{
+    background-color:tomato;
+    border: 1px solid grey;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06); 
+    border-Radius:0.25rem;
+    border-style:none;
+    color:white;
+    padding:10px;
+    margin-bottom:10px
+  }
+
+  textarea{
+    resize:none;
+    padding:10px;
+    width:80vw;
+    height:15vh;
+    position:relative;
+    margin-bottom:5px
+  }
+
+  h1{margin-Top:10;margin-Bottom:5}
+  h4{text-align:center;margin-top:0;margin-bottom:10}
+
+  header {
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    min-height:20vh; 
+    display:grid;
+    justify-items:center
+  }
+  
+  .container{
+    min-height:30vh;
+    display:grid;
+    align-content:center;
+    align-items:center;
+    align-content:space-evenly;
+    justify-items:center
+  }
+
+  .buttonContainer{
+    display:flex;
+    width:100%;
+    align-content:center;
+    justify-content:center;
+    align-items:center
+  }
