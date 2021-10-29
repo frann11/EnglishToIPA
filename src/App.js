@@ -4,6 +4,7 @@ import {useState, useEffect } from 'react'
 import TextPronunciation from './components/TextPronunciation';
 import Footer from './components/Footer';
 import InputForm from './components/InputForm';
+import { removeWhiteSpaces } from './helpers';
 import {getTranslation} from './services'
 
 function App() {
@@ -14,25 +15,21 @@ function App() {
   const [loading,setLoading] = useState(false)
 
   function handleChange(e) {
-    setInputText(e.target.value)
+    setInputText(removeWhiteSpaces(e.target.value))
   }
 
   async function handleSubmit(e){
     e.preventDefault()
-
     if (inputText != textToTranslate){
-      setLoading(true)
-      setTextToTranslate(inputText)
-
+        setLoading(true)
+        setTextToTranslate(inputText)
+      }
     }
-    
-  }
   
   useEffect(() => {
     getTranslation(textToTranslate).then((translatedText) => setTranslatedText(translatedText))
     .catch((e) => console.log(e))
     .then(() => setLoading(false)).catch((e) => console.log(e))
-    
   }, [textToTranslate])
 
   return (
