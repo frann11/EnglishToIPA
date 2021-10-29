@@ -1,6 +1,6 @@
 import styles from './inputFormStyles.module.css'
 
-export default function InputForm({handleChange,handleSubmit}) {
+export default function InputForm({handleChange,handleSubmit,handleKeyPress}) {
     
     return (
 
@@ -10,7 +10,7 @@ export default function InputForm({handleChange,handleSubmit}) {
                 <h1 className={styles.h1}>English to IPA</h1>
                 <h4 className={styles.h4}>Aprende la pronunciación de las palabras en inglés</h4>
             </header>
-            <form onSubmit={(e) => handleSubmit(e)} >
+            <form onSubmit={(e) => handleSubmit(e)} onKeyPress={(e) => handleKeyPress(e)}>
                 <div className={styles.container} > 
                     <textarea className={styles.textArea} onChange={(e) => handleChange(e)} placeholder='Ingresa texto a transcribir fonéticamente' style={{}}/>
                     <div className={styles.buttonContainer}>

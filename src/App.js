@@ -25,6 +25,13 @@ function App() {
         setTextToTranslate(inputText)
       }
     }
+
+    async function handleKeyPress(e){
+      
+        if (e.charCode === 13){
+          handleSubmit(e)
+        }
+      }
   
   useEffect(() => {
     getTranslation(textToTranslate).then((translatedText) => setTranslatedText(translatedText))
@@ -34,7 +41,7 @@ function App() {
 
   return (
   <>
-    <InputForm handleChange={handleChange} handleSubmit={handleSubmit} />
+    <InputForm handleChange={handleChange} handleSubmit={handleSubmit} handleKeyPress={handleKeyPress} />
     <TextPronunciation textToTranslate={textToTranslate} translatedText={translatedText} loading={loading}/>
     <Footer/>
   </>

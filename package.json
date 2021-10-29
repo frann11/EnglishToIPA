@@ -1,6 +1,6 @@
 {
   "name": "english-to-ipa",
-  "homepage": "http://frann11.github.io/FRONTEND_EnglishToIPA",
+  "homepage": "http://frann11.github.io/EnglishToIPA",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
