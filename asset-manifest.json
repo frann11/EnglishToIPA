@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/EnglishToIPA/static/css/main.405f4fee.chunk.css",
-    "main.js": "/EnglishToIPA/static/js/main.9cd820dc.chunk.js",
-    "main.js.map": "/EnglishToIPA/static/js/main.9cd820dc.chunk.js.map",
+    "main.css": "/EnglishToIPA/static/css/main.9afa2493.chunk.css",
+    "main.js": "/EnglishToIPA/static/js/main.3f371a44.chunk.js",
+    "main.js.map": "/EnglishToIPA/static/js/main.3f371a44.chunk.js.map",
     "runtime-main.js": "/EnglishToIPA/static/js/runtime-main.94f9b1c6.js",
     "runtime-main.js.map": "/EnglishToIPA/static/js/runtime-main.94f9b1c6.js.map",
-    "static/js/2.1f7fdf1f.chunk.js": "/EnglishToIPA/static/js/2.1f7fdf1f.chunk.js",
-    "static/js/2.1f7fdf1f.chunk.js.map": "/EnglishToIPA/static/js/2.1f7fdf1f.chunk.js.map",
+    "static/js/2.75beb786.chunk.js": "/EnglishToIPA/static/js/2.75beb786.chunk.js",
+    "static/js/2.75beb786.chunk.js.map": "/EnglishToIPA/static/js/2.75beb786.chunk.js.map",
     "static/js/3.f6c4087e.chunk.js": "/EnglishToIPA/static/js/3.f6c4087e.chunk.js",
     "static/js/3.f6c4087e.chunk.js.map": "/EnglishToIPA/static/js/3.f6c4087e.chunk.js.map",
     "index.html": "/EnglishToIPA/index.html",
-    "static/css/main.405f4fee.chunk.css.map": "/EnglishToIPA/static/css/main.405f4fee.chunk.css.map",
-    "static/js/2.1f7fdf1f.chunk.js.LICENSE.txt": "/EnglishToIPA/static/js/2.1f7fdf1f.chunk.js.LICENSE.txt",
+    "static/css/main.9afa2493.chunk.css.map": "/EnglishToIPA/static/css/main.9afa2493.chunk.css.map",
+    "static/js/2.75beb786.chunk.js.LICENSE.txt": "/EnglishToIPA/static/js/2.75beb786.chunk.js.LICENSE.txt",
     "static/media/inputFormStyles.module.css": "/EnglishToIPA/static/media/layered-waves-haikei.d87a9180.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.94f9b1c6.js",
-    "static/js/2.1f7fdf1f.chunk.js",
-    "static/css/main.405f4fee.chunk.css",
-    "static/js/main.9cd820dc.chunk.js"
+    "static/js/2.75beb786.chunk.js",
+    "static/css/main.9afa2493.chunk.css",
+    "static/js/main.3f371a44.chunk.js"
   ]
 }
