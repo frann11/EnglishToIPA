@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/FRONTEND_EnglishToIPA/static/css/main.a6f47f42.chunk.css",
-    "main.js": "/FRONTEND_EnglishToIPA/static/js/main.2ee4f26c.chunk.js",
-    "main.js.map": "/FRONTEND_EnglishToIPA/static/js/main.2ee4f26c.chunk.js.map",
-    "runtime-main.js": "/FRONTEND_EnglishToIPA/static/js/runtime-main.ead9b926.js",
-    "runtime-main.js.map": "/FRONTEND_EnglishToIPA/static/js/runtime-main.ead9b926.js.map",
-    "static/js/2.ff9edb67.chunk.js": "/FRONTEND_EnglishToIPA/static/js/2.ff9edb67.chunk.js",
-    "static/js/2.ff9edb67.chunk.js.map": "/FRONTEND_EnglishToIPA/static/js/2.ff9edb67.chunk.js.map",
-    "static/js/3.2c4ffe63.chunk.js": "/FRONTEND_EnglishToIPA/static/js/3.2c4ffe63.chunk.js",
-    "static/js/3.2c4ffe63.chunk.js.map": "/FRONTEND_EnglishToIPA/static/js/3.2c4ffe63.chunk.js.map",
-    "index.html": "/FRONTEND_EnglishToIPA/index.html",
-    "static/css/main.a6f47f42.chunk.css.map": "/FRONTEND_EnglishToIPA/static/css/main.a6f47f42.chunk.css.map",
-    "static/js/2.ff9edb67.chunk.js.LICENSE.txt": "/FRONTEND_EnglishToIPA/static/js/2.ff9edb67.chunk.js.LICENSE.txt"
+    "main.css": "/EnglishToIPA/static/css/main.405f4fee.chunk.css",
+    "main.js": "/EnglishToIPA/static/js/main.9cd820dc.chunk.js",
+    "main.js.map": "/EnglishToIPA/static/js/main.9cd820dc.chunk.js.map",
+    "runtime-main.js": "/EnglishToIPA/static/js/runtime-main.94f9b1c6.js",
+    "runtime-main.js.map": "/EnglishToIPA/static/js/runtime-main.94f9b1c6.js.map",
+    "static/js/2.1f7fdf1f.chunk.js": "/EnglishToIPA/static/js/2.1f7fdf1f.chunk.js",
+    "static/js/2.1f7fdf1f.chunk.js.map": "/EnglishToIPA/static/js/2.1f7fdf1f.chunk.js.map",
+    "static/js/3.f6c4087e.chunk.js": "/EnglishToIPA/static/js/3.f6c4087e.chunk.js",
+    "static/js/3.f6c4087e.chunk.js.map": "/EnglishToIPA/static/js/3.f6c4087e.chunk.js.map",
+    "index.html": "/EnglishToIPA/index.html",
+    "static/css/main.405f4fee.chunk.css.map": "/EnglishToIPA/static/css/main.405f4fee.chunk.css.map",
+    "static/js/2.1f7fdf1f.chunk.js.LICENSE.txt": "/EnglishToIPA/static/js/2.1f7fdf1f.chunk.js.LICENSE.txt",
+    "static/media/inputFormStyles.module.css": "/EnglishToIPA/static/media/layered-waves-haikei.d87a9180.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ead9b926.js",
-    "static/js/2.ff9edb67.chunk.js",
-    "static/css/main.a6f47f42.chunk.css",
-    "static/js/main.2ee4f26c.chunk.js"
+    "static/js/runtime-main.94f9b1c6.js",
+    "static/js/2.1f7fdf1f.chunk.js",
+    "static/css/main.405f4fee.chunk.css",
+    "static/js/main.9cd820dc.chunk.js"
   ]
 }
